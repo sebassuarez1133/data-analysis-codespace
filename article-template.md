@@ -2,6 +2,7 @@
 title: This is the Test Title
 author: Your Name
 bibliography: references.bib
+format: pdf
 ---
 
 # Lorem Ipsum
@@ -20,3 +21,7 @@ Nullam consectetur ultricies erat sit amet auctor. Nulla convallis purus eu metu
 Donec et leo vulputate, placerat est et, elementum quam. Ut sit amet tellus eget diam lobortis placerat. Vestibulum mattis lacus quis justo egestas rutrum. Nulla eu aliquet ipsum. Sed euismod interdum lectus, ac sollicitudin nulla vestibulum ut. Nunc nulla nibh, posuere eu ipsum et, dictum consectetur purus. Suspendisse a rutrum arcu. Duis justo neque, convallis sed consequat sit amet, mattis ac sem.
 
 Maecenas tempor dolor vestibulum, interdum nibh eu, imperdiet libero. Maecenas ac ex neque. Ut mauris tortor, dapibus quis quam et, tincidunt viverra augue. In tellus enim, fermentum quis turpis vel, tincidunt ultricies massa. Sed tristique porta mi, non ornare ex consectetur vel. Donec risus ligula, eleifend pulvinar condimentum nec, bibendum placerat libero. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi varius at risus dignissim rhoncus. Mauris at nulla volutpat, blandit velit ut, aliquet sem. Mauris eu dapibus nibh, et dapibus tellus. Vivamus vitae rhoncus nisl, non ultricies metus. Aliquam erat volutpat. Nulla ac enim ante.
+
+
+# References
+
