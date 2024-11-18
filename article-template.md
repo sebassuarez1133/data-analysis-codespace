@@ -34,10 +34,13 @@ On top of being broadcasted daily, AMLO has effectively used social media as a k
 In addition, the mañaneras set the executive's agenda for the day, allowing AMLO to emphasize his preferred topics, maintain significant control over the narrative and as a responding platform to critical news outlets, caling them fraudulent and neoliberal media36 who serve the power mafia.  This has contributed to a steady decline in public trust in mainstream news, with confidence levels dropping from 50% in 2019 to 36% in 202437. Through these strategies, AMLO strengthens his connection with the public while undermining opposers and traditional media´s criticism.
 
 Moreover, AMLO’s mañaneras, are characterized by a populist tone38, a lack of fact-checking mechanisms and rhetorical strategies that restrict open dialogue. The mañaneras have raised concerns regarding the accuracy of the information shared. Due to this, the non-governmental organization “Article 19”, conducted a research fact-checking the mañaneras.  Article 19 solicited data to revise what AMLO said in 34 occasions throughout various mañaneras. They found that39: 
+
 1. In 26.5% of the cases were proven false by government data.
 2. In 58.8% of the cases the information was not presented by the institution.
 3. In 5.6% of the cases were backed by government data. 
+
 He also uses discursive methods to cancel the opportunity for a constructive debate when confronted with a case of maladministration from his government. For example,40:
+
 1. He decides who to speak with, removing the possibility to speak to those who confront him.
 2. It does not matter the question, if the president does not want to answer he will state he “has other data” immediately cancelling a debate because the topic now is who is right and who is wrong41.
 3. He chooses who says the truth. During the segment “Who is who with the lies?”42 he unveils opposing individuals or organizations and attempts to cancel their opinion. 
